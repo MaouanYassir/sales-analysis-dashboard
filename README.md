@@ -47,8 +47,7 @@ Analyzes customer performance and segmentation:
 * Sales by Customer Segment
 * Country Filter for Dynamic Analysis
 
-![Customers](customers.png)
-
+<img width="922" height="718" alt="Image" src="https://github.com/user-attachments/assets/31ad9390-3ac5-4214-af05-c7d5c572f690" />
 ---
 
 ## Key Business Insights Delivered
