@@ -24,8 +24,7 @@ Provides a high-level business summary including:
 * Sales by Country
 * Sales Share by Country
 
-![Overview](overview.png)
-
+<img width="1102" height="666" alt="Image" src="https://github.com/user-attachments/assets/dfcda573-05c0-4955-ac73-b426482b3fd8" />
 ---
 
 ### Products
