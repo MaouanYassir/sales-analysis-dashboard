@@ -35,8 +35,7 @@ Focuses on product and category performance:
 * Sales by Category
 * Product KPIs
 
-![Products](products.png)
-
+<img width="920" height="712" alt="Image" src="https://github.com/user-attachments/assets/7d7725a0-a80d-4526-abcc-5ca381771177" />
 ---
 
 ### Customers
